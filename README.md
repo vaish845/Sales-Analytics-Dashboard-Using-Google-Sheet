@@ -118,7 +118,8 @@ streamlit run app.py
 http://localhost:8501
 ```
 
----
+---<img width="1898" height="1078" alt="dashboard3" src="https://github.com/user-attachments/assets/009a324d-5847-4add-bc0e-e74c3e5842fa" />
+
 
 ## 📊 Dashboard Capabilities
 
@@ -145,9 +146,9 @@ http://localhost:8501
 
 *Add screenshots of your dashboard here*
 
-```
-<img width="1903" height="1024" alt="sales dashboard using google sheet" src="https://github.com/user-attachments/assets/2e06be45-3307-4b17-bd34-430625115851" />
-<img width="1917" height="1022" alt="sales dashboard 2" src="https://github.com/user-attachments/assets/b99c9f29-f833-478f-ad91-83f1892c9be2" />
+<img width="1917" height="1022" alt="sales dashboard 2" src="https://github.com/user-attachments/assets/b91f3c8b-b410-4232-8056-ca3762e4c4de" />
+<img width="1903" height="1024" alt="sales dashboard using google sheet" src="https://github.com/user-attachments/assets/8d1ab2ca-78c7-4efa-99bf-e7acdbfda8b6" />
+
 
 ```
 
