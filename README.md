@@ -118,7 +118,6 @@ streamlit run app.py
 http://localhost:8501
 ```
 
----<img width="1898" height="1078" alt="dashboard3" src="https://github.com/user-attachments/assets/009a324d-5847-4add-bc0e-e74c3e5842fa" />
 
 
 ## 📊 Dashboard Capabilities
